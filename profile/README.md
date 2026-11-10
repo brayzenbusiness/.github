@@ -14,11 +14,11 @@ it. It is **planned**, not launched: scope, order, and claims are set by discove
 | ---- | ------ |
 | [`api`](https://github.com/brayzenbusiness/api) | v0 multi-tenant organizational foundation — organizations, members, RBAC, invitations, API keys, audit. Private; internal service boundary. |
 | [`dev`](https://github.com/brayzenbusiness/dev) | Development sandbox — spikes and scratch, nothing production. |
-| `.github` | This repo — org profile and future org-wide conventions. |
+| `.github` | This repo — org profile (public since 2026-11-10) and future org-wide conventions. |
 
 ## Ground rules
 
-- Private by default — this is a business product line under active discovery.
+- Private by default for product code — this is a business product line under active discovery (org meta is the one public exception).
 - No launch claims until discovery produces design partners and the roadmap gates pass.
 - The consumer Brayzen platform lives in the separate `brayzenco` org; data, deploys,
   and blast radius do not cross the boundary.
