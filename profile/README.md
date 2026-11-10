@@ -12,8 +12,7 @@ it. It is **planned**, not launched: scope, order, and claims are set by discove
 
 | Repo | Status |
 | ---- | ------ |
-| [`api`](https://github.com/brayzenbusiness/api) | v0 multi-tenant organizational foundation — organizations, members, RBAC, invitations, API keys, audit. Private; internal service boundary. |
-| [`dev`](https://github.com/brayzenbusiness/dev) | Development sandbox — spikes and scratch, nothing production. |
+| [`api`](https://github.com/brayzenbusiness/api) | v0 multi-tenant organizational foundation — organizations, members, RBAC, invitations, API keys, audit. Private; internal service boundary. `main` = stable, `dev` = integration branch. |
 | `.github` | This repo — org profile (public since 2026-11-10) and future org-wide conventions. |
 
 ## Ground rules
